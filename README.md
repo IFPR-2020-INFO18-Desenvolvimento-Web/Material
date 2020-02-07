@@ -10,6 +10,6 @@
 
 🖊️ [Atividade 0 - Git, GitHub e GitHub Classroom](https://classroom.github.com/a/nVFNz9kC)
 
-## Android
+## HTML - HyperText Markup Language
 
-👨‍🏫 [Android - Introdução](files/web-aula01-html.pdf)
+👨‍🏫 [Conceitos Web e Introdução ao HTML](files/web-aula01-html.pdf)

@@ -15,3 +15,5 @@
 ## HTML - HyperText Markup Language
 
 👨‍🏫 [Conceitos Web e Introdução ao HTML](files/web-aula01-html.pdf)
+
+🖊️ [Atividade 1 - HTML](https://classroom.github.com/g/ATqOzrWF)

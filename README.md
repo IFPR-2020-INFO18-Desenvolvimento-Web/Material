@@ -17,3 +17,11 @@
 👨‍🏫 [Conceitos Web e Introdução ao HTML](files/web-aula01-html.pdf)
 
 🖊️ [Atividade 1 - HTML](https://classroom.github.com/g/ATqOzrWF)
+
+🧮 [Código da aula de 14/02/2020](https://github.com/IFPR-2020-INFO18-Desenvolvimento-Web/aula01-html)
+
+## CSS - Cascading Style Sheets
+
+👨‍🏫 [CSS](files/web-aula02-css.pdf)
+
+🖊️ [Atividade 2 - CSS](https://classroom.github.com/g/WcPO0G9H)

@@ -25,3 +25,5 @@
 👨‍🏫 [CSS](files/web-aula02-css.pdf)
 
 🖊️ [Atividade 2 - CSS](https://classroom.github.com/g/WcPO0G9H)
+
+🧮 [Arquivos exemplo para aula de 21/02/2020](https://github.com/IFPR-2020-INFO18-Desenvolvimento-Web/aula02-css)
